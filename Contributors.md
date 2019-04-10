@@ -1,6 +1,7 @@
 # Contributors
 - Jeseph Roseles (https://github.com/bitinzealot)
 - Kevin Andres (https://github.com/KevinKAMS)
+- Joshua Morgan
 - GabrielCortizo ()
 - Alex Solonenko(https://github.com/Spilex)
 - Mark Sargent (https://github.com/mesargent/)
